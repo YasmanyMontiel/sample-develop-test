@@ -1,2 +1,8 @@
-test
-This is this tutorial
+TUTORIAL
+
+1 - read the manual
+2 - update tools
+3 - ask to boss
+4 - test
+5 - This is this tutorial
+
